@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "I・N・G",
+  "base_artist": "RIP SLYME",
+  "createdAt": "2026-02-12T06:33:09.407639Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I・N・G",
+      "artist": "RIP SLYME",
+      "has_synced": true,
+      "path": "select/01_I・N・G_RIP_SLYME.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "D.A.R.L.I.N.G.",
+      "artist": "Beach House",
+      "has_synced": true,
+      "path": "select/02_D.A.R.L.I.N.G._Beach_House.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "F.E.E.L.I.N.G.C.A.L.L.E.D.L.O.V.E.",
+      "artist": "Pulp",
+      "has_synced": true,
+      "path": "select/03_F.E.E.L.I.N.G.C.A.L.L.E.D.L.O.V.E._Pulp.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "s o c i a l d i s t a n c i n g",
+      "artist": "HONNE",
+      "has_synced": true,
+      "path": "select/04_s_o_c_i_a_l_d_i_s_t_a_n_c_i_n_g_HONNE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "a p p l y i n g . p r e s s u r e",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/05_a_p_p_l_y_i_n_g_._p_r_e_s_s_u_r_e_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "K.I.N.G",
+      "artist": "Satyricon",
+      "has_synced": true,
+      "path": "select/06_K.I.N.G_Satyricon.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "K.I.S.S.I.N.G.",
+      "artist": "Siedah Garrett",
+      "has_synced": false,
+      "path": "select/07_K.I.S.S.I.N.G._Siedah_Garrett.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "a p p l y i n g . p r e s s u r e [Explicit]",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/08_a_p_p_l_y_i_n_g_._p_r_e_s_s_u_r_e_[Explicit]_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "K-I-SS-I-N-G",
+      "artist": "Nas",
+      "has_synced": false,
+      "path": "select/09_K-I-SS-I-N-G_Nas.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "K‐I‐SS‐I‐N‐G",
+      "artist": "Nas",
+      "has_synced": true,
+      "path": "select/10_K‐I‐SS‐I‐N‐G_Nas.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "S.T.O.P. B.E.L.I.E.V.I.N.G.",
+      "artist": "Cheekface",
+      "has_synced": false,
+      "path": "select/11_S.T.O.P._B.E.L.I.E.V.I.N.G._Cheekface.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "K-I-S-S-I-N-G",
+      "artist": "Rhett Akins",
+      "has_synced": true,
+      "path": "select/12_K-I-S-S-I-N-G_Rhett_Akins.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "i-n-g, I TRY!! - 桜内梨子 Solo Ver.",
+      "artist": "桜内梨子 (CV.逢田梨香子) from Aqours",
+      "has_synced": true,
+      "path": "select/13_i-n-g,_I_TRY!!_-_桜内梨子_Solo_Ver._桜内梨子_(CV.逢田梨香子)_from_Aqours.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "i-n-g, I TRY!! (桜内梨子 Solo Ver.)",
+      "artist": "桜内梨子(CV.逢田梨香子)",
+      "has_synced": true,
+      "path": "select/14_i-n-g,_I_TRY!!_(桜内梨子_Solo_Ver.)_桜内梨子(CV.逢田梨香子).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "i-n-g, I TRY!! - 高海千歌 Solo Ver.",
+      "artist": "高海千歌 (CV.伊波杏樹) from Aqours",
+      "has_synced": true,
+      "path": "select/15_i-n-g,_I_TRY!!_-_高海千歌_Solo_Ver._高海千歌_(CV.伊波杏樹)_from_Aqours.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "i-n-g, I TRY!! (高海千歌 Solo Ver.)",
+      "artist": "高海千歌(CV.伊波杏樹)",
+      "has_synced": true,
+      "path": "select/16_i-n-g,_I_TRY!!_(高海千歌_Solo_Ver.)_高海千歌(CV.伊波杏樹).lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "i-n-g, I TRY!!",
+      "artist": "黒澤ルビィ (CV.降幡 愛)",
+      "has_synced": true,
+      "path": "select/17_i-n-g,_I_TRY!!_黒澤ルビィ_(CV.降幡_愛).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I・N・G",
+      "artist": "RIP SLYME",
+      "has_synced": false,
+      "path": "select/pl_01_I・N・G_RIP_SLYME.txt"
+    }
+  ]
+}
